@@ -34,3 +34,18 @@ nav a {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+main {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1f2937;
+    padding: 5rem 10%;
+    gap:2rem; 
+}
