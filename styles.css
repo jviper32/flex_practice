@@ -154,3 +154,10 @@ blockquote .cite {
     border-color: white;
     border-style: solid;
 }
+
+footer {
+    background-color: #1f2937;
+    color: white;
+    text-align: center;
+    padding: 2rem
+}
